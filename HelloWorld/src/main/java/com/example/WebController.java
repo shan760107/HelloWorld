@@ -10,7 +10,7 @@ public class WebController {
 	@RequestMapping("/")
 	@ResponseBody
 	public String home() {
-		return "helloHomeMaster";
+		return "helloHomeMaster2";
 	}
 	
 }
